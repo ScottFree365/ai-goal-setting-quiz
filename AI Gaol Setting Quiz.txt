@@ -1,0 +1,1 @@
+web: streamlit run ai_goal_setting_quiz.py --server.port=$PORT
